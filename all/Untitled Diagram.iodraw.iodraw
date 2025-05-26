@@ -119,7 +119,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XlIQvLycqIRn-IEMMejY-26" target="XlIQvLycqIRn-IEMMejY-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="170" />
+              <mxPoint x="670" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-26" value="Informe Digital&lt;div&gt;SITELS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="260" width="120" height="40" as="geometry" />
