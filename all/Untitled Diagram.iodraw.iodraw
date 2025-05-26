@@ -83,16 +83,16 @@
         <mxCell id="XlIQvLycqIRn-IEMMejY-12" value="Baja/Consulta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-13" value="Crítica&lt;div&gt;4 horas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XlIQvLycqIRn-IEMMejY-13" value="Crítica&lt;div&gt;4 horas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-14" value="Alta&lt;div&gt;12 horas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XlIQvLycqIRn-IEMMejY-14" value="Alta&lt;div&gt;12 horas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-15" value="Media&lt;div&gt;48 horas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XlIQvLycqIRn-IEMMejY-15" value="Media&lt;div&gt;48 horas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-16" value="Baja/Consulta&lt;div&gt;30 días cal.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XlIQvLycqIRn-IEMMejY-16" value="Baja/Consulta&lt;div&gt;30 días cal.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="XlIQvLycqIRn-IEMMejY-55">
@@ -157,9 +157,6 @@
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-42" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-48" value="Aprobado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="80" width="60" height="30" as="geometry" />
