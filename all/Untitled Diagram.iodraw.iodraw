@@ -117,6 +117,9 @@
         <mxCell id="XlIQvLycqIRn-IEMMejY-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XlIQvLycqIRn-IEMMejY-28" target="XlIQvLycqIRn-IEMMejY-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XlIQvLycqIRn-IEMMejY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XlIQvLycqIRn-IEMMejY-28" target="XlIQvLycqIRn-IEMMejY-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-28" value="Aprobación Informe&lt;div&gt;CNT&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="720" width="100" height="80" as="geometry" />
         </mxCell>
