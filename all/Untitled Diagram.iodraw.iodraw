@@ -225,6 +225,9 @@
             <mxPoint x="398" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XlIQvLycqIRn-IEMMejY-67" value="No = 2 días cal." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
