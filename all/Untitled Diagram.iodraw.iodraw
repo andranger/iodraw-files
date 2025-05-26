@@ -16,8 +16,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Restablecimiento Servicio&lt;div&gt;SITELS&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fad9d5;strokeColor=#ae4132;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="-20" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="XlIQvLycqIRn-IEMMejY-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XlIQvLycqIRn-IEMMejY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Solicitud Cierre Ticket&lt;div&gt;CNT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="180" width="120" height="40" as="geometry" />
@@ -118,16 +120,14 @@
             <mxPoint x="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XlIQvLycqIRn-IEMMejY-26" target="XlIQvLycqIRn-IEMMejY-28">
+        <mxCell id="XlIQvLycqIRn-IEMMejY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="XlIQvLycqIRn-IEMMejY-28">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="280" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="580" y="280" />
               <mxPoint x="580" y="30" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-26" value="Informe Digital&lt;div&gt;SITELS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XlIQvLycqIRn-IEMMejY-28" target="XlIQvLycqIRn-IEMMejY-35">
           <mxGeometry relative="1" as="geometry" />
