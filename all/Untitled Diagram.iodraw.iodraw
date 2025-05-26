@@ -64,8 +64,8 @@
         <mxCell id="XlIQvLycqIRn-IEMMejY-10" value="Media" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-12" value="Crítica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="XlIQvLycqIRn-IEMMejY-12" value="Baja/Consulta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
