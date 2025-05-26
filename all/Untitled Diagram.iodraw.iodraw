@@ -189,7 +189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-58" value="Crítica&lt;div&gt;4 horas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XlIQvLycqIRn-IEMMejY-58" value="Crítica&lt;div&gt;5 días cal.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-59" value="Alta&lt;div&gt;12 horas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -229,7 +229,7 @@
           <mxGeometry x="780" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-68" value="1 día lab." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="700" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
