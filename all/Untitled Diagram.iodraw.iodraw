@@ -190,11 +190,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-53" value="Crítica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="XlIQvLycqIRn-IEMMejY-53" value="Crítica = 1 día lab." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-54" value="Otra" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
