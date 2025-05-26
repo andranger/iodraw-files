@@ -186,10 +186,12 @@
             <mxPoint x="630" y="40" as="targetPoint" />
             <Array as="points">
               <mxPoint x="590" y="320" />
-              <mxPoint x="590" y="40" />
-              <mxPoint x="645" y="40" />
+              <mxPoint x="590" y="50" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XlIQvLycqIRn-IEMMejY-53" value="Crítica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
