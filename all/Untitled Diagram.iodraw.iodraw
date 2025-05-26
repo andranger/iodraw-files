@@ -93,8 +93,8 @@
         <mxCell id="XlIQvLycqIRn-IEMMejY-15" value="Media&lt;div&gt;48 horas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-16" value="Baja/Consulta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="40" width="60" height="30" as="geometry" />
+        <mxCell id="XlIQvLycqIRn-IEMMejY-16" value="Baja/Consulta&lt;div&gt;30 días cal.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlIQvLycqIRn-IEMMejY-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
