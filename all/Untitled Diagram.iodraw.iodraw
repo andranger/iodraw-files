@@ -33,13 +33,13 @@
             <mxPoint x="220" y="40" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XlIQvLycqIRn-IEMMejY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XlIQvLycqIRn-IEMMejY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XlIQvLycqIRn-IEMMejY-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="160" as="sourcePoint" />
             <mxPoint x="430" y="20" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="160" />
-              <mxPoint x="380" y="-80" />
+              <mxPoint x="380" y="300" />
+              <mxPoint x="380" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
